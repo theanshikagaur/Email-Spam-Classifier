@@ -1,5 +1,5 @@
 # Email-Spam-Classifier
-This is Email Spam Classifier model trained by Anshika Gaur, The model we have used is Random Forest Classifier and the dataset is from kaggle, here is the link
+This is Email Spam Classifier model trained by Anshika Gaur, The model we have used is LogisticRegression and the dataset is from kaggle, here is the link
 https://www.kaggle.com/datasets/abdmental01/email-spam-dedection
 About Dataset About Data This Data Set Contains Two Columns
 Message Category -ham -spam 
